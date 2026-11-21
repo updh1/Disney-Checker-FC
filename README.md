@@ -59,8 +59,8 @@ disney_hits_<HHMMSS>.txt	Valid subscriptions
 disney_free_<HHMMSS>.txt	Valid accounts without subscription
 Format:
 ```
+## Capture
 ```bash
-Capture
 email:password | Country:US 🇺🇸 | Sub:Disney+ Premium | Expire:2025-08-14 | Profiles:Main,Kids
 ```
 ## 📲 Telegram Setup (Optional)
