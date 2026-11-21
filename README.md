@@ -30,7 +30,7 @@ pip install curl-cffi requests
 Clone the repo:
 
 ```bash
-git clone https://github.com/yourname/disney-checker.git
+git clone git@github.com:updh1/Disney-Checker-FC.git
 cd disney-checker
 ```
 ## Prepare combos.txt (one per line):
